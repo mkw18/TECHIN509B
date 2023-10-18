@@ -3,3 +3,4 @@ dog
 monkey
 bear
 bird
+Whale
